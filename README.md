@@ -15,3 +15,10 @@ Make sure image is built and ready
 Run and bind to port 8080
 
 `docker run -p 8080:8085 springweb`
+
+
+TO BE CONTINUED.. 
+
+Also checked bootJar version and version outside difference
+
+https://spring.io/guides/gs/spring-boot-docker/
