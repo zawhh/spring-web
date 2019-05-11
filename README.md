@@ -6,7 +6,7 @@ Build springweb
 
 Build docker
 
-`docker image build -t springweb .`
+`docker build -t springweb .`
 
 Make sure image is built and ready
 

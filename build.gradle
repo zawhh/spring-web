@@ -6,11 +6,11 @@ plugins {
 apply plugin: 'io.spring.dependency-management'
 
 bootJar {
-    version =  '0.1.0'
+    baseName "springweb"
+    version = '0.0.1'
 }
 
 group = 'com.brian'
-version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
 repositories {
